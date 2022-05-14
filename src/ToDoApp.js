@@ -62,7 +62,7 @@ export default class TodoApp extends LitElement {
         <todo-entry task="todoTask.task"></todo-entry>
       </stoxy-repeat>
       <p>Task List: <stoxy-string default="No Task added">todocount</stoxy-string></p>
-      <button class='clear-task'>Clear Tasks</button>
+      <button class='clear-task' @click=${() => clear("todos")}>Clear Tasks</button>
     `;
   }
 }

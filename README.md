@@ -12,15 +12,20 @@ This app is used to create to-do tasks, moving task up and down and clear the ad
 
 # Default 
 
-![alt text](Default.png)
+![alt text](Default.PNG)
 
 
 # Added Task 
 
-![alt text](TaskAdded.png)
+![alt text](TaskAdded.PNG)
 
 
 ## Deleted Task 
 
-![alt text](DeletedTask.png)
+![alt text](DeletedTask.PNG)
+
+## Server 
+npm run start
+http://localhost:1234
+
 

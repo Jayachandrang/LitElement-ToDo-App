@@ -28,7 +28,7 @@ export default class TodoAdd extends LitElement {
         background: transparent;
         font-size: 24px;
         color: #fff;
-        border: 2px solid #fff;
+        border: 4px solid #fff;
       }
       input[type="submit"] {
         font-size: 24px;
